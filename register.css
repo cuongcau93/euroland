@@ -1,0 +1,58 @@
+#title{
+	text-align: center;
+	color: red;
+	font-size: 40px;
+	padding-left: 70px;
+}
+.register{
+	padding: 40px;
+	border: 1px solid blue;
+	margin-top: 80px;
+	margin-left: 35%;
+	width: 30%;
+	color: blue;
+	background-color: #f4e8f4;
+}
+#username{
+	width: 130%;
+	height: 20px;
+	margin-top: 5px;
+
+}
+#password{
+	margin-top: 5px;
+	width: 130%;
+	height: 20px;
+
+}
+#confirmPassword{
+	width: 130%;
+	height: 20px;	
+	margin-top: 5px;
+}
+#email{
+	width: 130%;
+	height: 20px;	
+	margin-top: 5px;
+}
+#messageUser{
+	color: red;
+}
+#messageEmail{
+	color: red;
+}
+#messagePass{
+	color: red;
+}
+#messageConfirmPass{
+	color: red;
+}
+#messageGender{
+	color: red;
+}
+#button{
+	color: white;
+	background-color: #4848a8;
+	width: 100px;
+	height: 40px;
+}
